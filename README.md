@@ -1,4 +1,4 @@
-# Dollar Pizza - React
+# Dollar Pizza Lab - React
 
 ![alt-text-includes-image-credit](dollar-pizza-website.png)
 
