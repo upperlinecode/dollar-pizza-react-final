@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-Once everything is installed and you have started up the website, take a look and see what the website looks like now.
+Once everything is installed and you have started up the website, open the website and see what it looks like now.
 
 ### First Task
 To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.js file.
