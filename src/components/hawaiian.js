@@ -12,7 +12,7 @@ const Hawaiian = () => {
           <p className="card-text">We know, you think this is gross. But try this once and we swear you'll be hooked on this pineapple and ham pizza.</p>
         </div>
         <ul className="list-group list-group-flush">
-          <li className="list-group-item">Price: $1.00</li>
+          <li className="list-group-item">Price: $2.00</li>
         </ul>
       </div>
     </div>
