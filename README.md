@@ -1,13 +1,13 @@
 # Dollar Pizza Lab - React
 
-![alt-text-includes-image-credit](dollar-pizza-website.png)
+![alt-text-includes-image-credit](kelsie-pizza-final.png)
 
 ## The Goal
-Everyone knows that dollar pizza is the best deal in the city (maybe the world). In this lab we are going to finish building a website for Jeff's Dollar Pizza shop using React.
+Everyone knows that dollar pizza is the best deal in the city (maybe the world). In this lab we are going to finish building a website for Kelsie's Dollar Pizza shop using React.
 
-Jeff hired a web developer to start the website. Sadly, the developer got tired of New York City winters, moved to Thailand, and works as a full-time yoga instructor at a boutique all inclusive hotel. Jeff can't get in contact with the developer and all he has left is the incomplete code for the website.
+Kelsie hired a web developer to start the website. Sadly, the developer got tired of New York City winters, moved to Thailand, and works as a full-time yoga instructor at a boutique all inclusive hotel. Kelsie can't get in contact with the developer and all she has left is the incomplete code for the website.
 
-Our job is to complete the website for Jeff's Dollar Pizza so it looks like the mock-up above.
+Our job is to complete the website for Kelsie's Dollar Pizza so it looks like the mock-up above.
 
 ## The Setup
 Clone this repository. In the terminal, run the following commands:
@@ -23,7 +23,7 @@ Once everything is installed and you have started up the website, open the websi
 To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.js file.
 
 ### Second Task
-Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Jeff's name to the text as well.
+Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Kelsie's name to the text as well.
 
 ### Third Task
 Open the CSS file that is associated with the pizza component (there might be a clue at the top of the file where to find it).
@@ -44,4 +44,4 @@ Where is the Hawaiian slice? Please add it to the menu as well.
 It looks like our yoga instructor web developer completely forgot write the most of the BBQ Chicken component. Please complete the component and then put it onto the menu.
 
 ## Extension
-Can you create a whole new component on your own? Jeff would like a footer for the website that has the address and phone number for his pizza shop. Please create a footer component and add it to the website. The store address is 555 Time Square, NY, NY 10000 and the phone number is (212) 555 5555
+Can you create a whole new component on your own? Kelsie would like a footer for the website that has the address and phone number for her pizza shop. Please create a footer component and add it to the website. The store address is 555 Time Square, NY, NY 10000 and the phone number is (212) 555 5555
