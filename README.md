@@ -19,29 +19,29 @@ npm start
 
 Once everything is installed and you have started up the website, open the website and see what it looks like now.
 
-### First Task
+### 1. Navbar
 To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.js file.
 
-### Second Task
+### 2. Pizza
 Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Kelsie's name to the text as well.
 
-### Third Task
+### 3. Pizza CSS
 Open the CSS file that is associated with the pizza component (there might be a clue at the top of the file where to find it).
 Edit the css so that the font is the correct size and centered properly.
 
 The same must be done in the css file for the Menu component. Find the css file associated with the Menu component and edit the style so it looks like the mock-up.
 
-### Fourth Task
+### 4. Text
 It looks like the menu items were all just copied over! Please edit the text for each of the components associated with the different slices. Make sure the title, price, and description are correct.
 Also, make sure the correct image is being imported at the top of the file.
 
-### Fifth Task
+### 5. Hawaiian
 Where is the Hawaiian slice? Please add it to the menu as well.
 
 >Hint: Don't forget that each component must be imported at the start of the file.
 
-## Final Task
+## 6. BBQ
 It looks like our yoga instructor web developer completely forgot write the most of the BBQ Chicken component. Please complete the component and then put it onto the menu.
 
 ## Extension
-Can you create a whole new component on your own? Kelsie would like a footer for the website that has the address and phone number for her pizza shop. Please create a footer component and add it to the website. The store address is 555 Time Square, NY, NY 10000 and the phone number is (212) 555 5555
+Can you create a whole new component on your own? Kelsie would like a **Footer** for the website that has the address and phone number for her pizza shop. Please create a Footer component and add it to the website. The store address is 555 Time Square, NY, NY 10000 and the phone number is (212) 555 5555.

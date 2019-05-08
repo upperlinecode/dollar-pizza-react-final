@@ -4,15 +4,19 @@ import Pizza from './components/pizza'
 import Menu from './components/menu'
 import './App.css';
 
-class App extends Component {
-  render() {
-    return (
+const App = () => {
+  const component = new React.Component()
+
+  component.render = () => {
+    return(
       <div className="App">
         <Pizza/>
         <Menu/>
       </div>
-    );
+    )
   }
+
+  return component
 }
 
 export default App;

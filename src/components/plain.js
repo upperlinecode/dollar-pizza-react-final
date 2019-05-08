@@ -4,7 +4,7 @@ import './css/slice.css'
 
 const Plain = () => {
   return(
-    <div className="col-4">
+    <div className="Plain col-4">
       <div className="card">
         <img src={ plain } class="card-img-top" alt="..."/>
         <div className="card-body">
