@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
-import plain from './images/plain.jpg'
-import './css/slice.css'
+import React, { Component } from 'react';
+import plain from './images/plain.jpg';
+import './css/slice.css';
 
-const Plain = () => {
+function Plain() {
   return(
     <div className="Plain col-4">
       <div className="card">
@@ -16,7 +16,7 @@ const Plain = () => {
         </ul>
       </div>
     </div>
-  )
+  );
 }
 
-export default Plain
+export default Plain;

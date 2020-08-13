@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-const Bbq = () => {
+function Bbq() {
   return(
     <div>
 
@@ -8,4 +8,4 @@ const Bbq = () => {
   )
 }
 
-export default Bbq
+export default Bbq;

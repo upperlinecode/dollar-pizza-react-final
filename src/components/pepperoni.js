@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
-import pepperoni from './images/plain.jpg'
-import './css/slice.css'
+import React, { Component } from 'react';
+import pepperoni from './images/plain.jpg';
+import './css/slice.css';
 
-const Pepperoni = () => {
+function Pepperoni() {
   return(
     <div className="Pepperoni col-4">
       <div className="card">
@@ -16,7 +16,7 @@ const Pepperoni = () => {
         </ul>
       </div>
     </div>
-  )
+  );
 }
 
-export default Pepperoni
+export default Pepperoni;

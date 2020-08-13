@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
-import hawaiian from './images/hawaiian.jpg'
-import './css/slice.css'
+import React, { Component } from 'react';
+import hawaiian from './images/hawaiian.jpg';
+import './css/slice.css';
 
-const Hawaiian = () => {
+function Hawaiian() {
   return(
     <div className="Hawaiian col-4">
       <div className="card">
@@ -16,7 +16,7 @@ const Hawaiian = () => {
         </ul>
       </div>
     </div>
-  )
+  );
 }
 
-export default Hawaiian
+export default Hawaiian;

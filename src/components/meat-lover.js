@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
-import meat from './images/plain.jpg'
-import './css/slice.css'
+import React, { Component } from 'react';
+import meat from './images/plain.jpg';
+import './css/slice.css';
 
-const MeatLover = () => {
+function MeatLover() {
   return(
     <div className="MeatLover col-4">
       <div className="card">
@@ -16,7 +16,7 @@ const MeatLover = () => {
         </ul>
       </div>
     </div>
-  )
+  );
 }
 
-export default MeatLover
+export default MeatLover;

@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
-import Plain from './plain'
-import Pepperoni from './pepperoni'
-import MeatLover from './meat-lover'
-import Veggie from './veggie'
-import './css/menu.css'
+import React, { Component } from 'react';
+import Plain from './plain';
+import Pepperoni from './pepperoni';
+import MeatLover from './meat-lover';
+import Veggie from './veggie';
+import './css/menu.css';
 
-const Menu = () => {
+function Menu() {
   return(
     <div className='Menu container-fluid'>
       <h1 className='primary-text'>New York's World Famous</h1>
@@ -17,7 +17,7 @@ const Menu = () => {
         <Veggie/>
       </div>
     </div>
-  )
+  );
 }
 
-export default Menu
+export default Menu;
