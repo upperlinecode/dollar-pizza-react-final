@@ -24,7 +24,7 @@ Once everything is installed and you have started up the website, open the websi
 To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.js file.
 
 #### 2. Pizza
-Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Kelsie's name to the text as well.
+Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Kelsie's name to the text as well - you can also use your own name instead if you want. 
 
 #### 3. Pizza CSS
 Open the CSS file that is associated with the pizza component (there might be a clue at the top of the file where to find it).
