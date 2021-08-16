@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import plain from './images/plain.jpg';
 import './css/slice.css';
 
