@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Plain from './plain';
 import Pepperoni from './pepperoni';
 import MeatLover from './meat-lover';
