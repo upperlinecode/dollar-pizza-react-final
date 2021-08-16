@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import hawaiian from './images/hawaiian.jpg';
 import './css/slice.css';
 
